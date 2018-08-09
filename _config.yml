@@ -1,3 +1,4 @@
-theme: minima
 #title: project name
+remote_theme: piksel/ghtheme-piksel
+minimal_mistakes_skin: piksel
 #docs_url: docs
