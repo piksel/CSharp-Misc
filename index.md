@@ -1,7 +1,8 @@
 ---
 layout: single
+title: CSharp-Misc
 ---
 
 ## Documentation contents:
 
-{% include_relative api/toc.html %}
+[Piksel.Helpers](api/Piksel.Helpers.html)
