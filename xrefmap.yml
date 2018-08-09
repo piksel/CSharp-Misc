@@ -1,0 +1,236 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Piksel.Helpers
+  name: Piksel.Helpers
+  href: api/Piksel.Helpers.html
+  commentId: N:Piksel.Helpers
+  fullName: Piksel.Helpers
+  nameWithType: Piksel.Helpers
+- uid: Piksel.Helpers.BitHelpers
+  name: BitHelpers
+  href: api/Piksel.Helpers.BitHelpers.html
+  commentId: T:Piksel.Helpers.BitHelpers
+  fullName: Piksel.Helpers.BitHelpers
+  nameWithType: BitHelpers
+- uid: Piksel.Helpers.BitHelpers.Bit0L
+  name: Bit0L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit0L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit0L
+  fullName: Piksel.Helpers.BitHelpers.Bit0L
+  nameWithType: BitHelpers.Bit0L
+- uid: Piksel.Helpers.BitHelpers.Bit0M
+  name: Bit0M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit0M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit0M
+  fullName: Piksel.Helpers.BitHelpers.Bit0M
+  nameWithType: BitHelpers.Bit0M
+- uid: Piksel.Helpers.BitHelpers.Bit1L
+  name: Bit1L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit1L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit1L
+  fullName: Piksel.Helpers.BitHelpers.Bit1L
+  nameWithType: BitHelpers.Bit1L
+- uid: Piksel.Helpers.BitHelpers.Bit1M
+  name: Bit1M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit1M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit1M
+  fullName: Piksel.Helpers.BitHelpers.Bit1M
+  nameWithType: BitHelpers.Bit1M
+- uid: Piksel.Helpers.BitHelpers.Bit2L
+  name: Bit2L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit2L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit2L
+  fullName: Piksel.Helpers.BitHelpers.Bit2L
+  nameWithType: BitHelpers.Bit2L
+- uid: Piksel.Helpers.BitHelpers.Bit2M
+  name: Bit2M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit2M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit2M
+  fullName: Piksel.Helpers.BitHelpers.Bit2M
+  nameWithType: BitHelpers.Bit2M
+- uid: Piksel.Helpers.BitHelpers.Bit3L
+  name: Bit3L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit3L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit3L
+  fullName: Piksel.Helpers.BitHelpers.Bit3L
+  nameWithType: BitHelpers.Bit3L
+- uid: Piksel.Helpers.BitHelpers.Bit3M
+  name: Bit3M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit3M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit3M
+  fullName: Piksel.Helpers.BitHelpers.Bit3M
+  nameWithType: BitHelpers.Bit3M
+- uid: Piksel.Helpers.BitHelpers.Bit4L
+  name: Bit4L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit4L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit4L
+  fullName: Piksel.Helpers.BitHelpers.Bit4L
+  nameWithType: BitHelpers.Bit4L
+- uid: Piksel.Helpers.BitHelpers.Bit4M
+  name: Bit4M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit4M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit4M
+  fullName: Piksel.Helpers.BitHelpers.Bit4M
+  nameWithType: BitHelpers.Bit4M
+- uid: Piksel.Helpers.BitHelpers.Bit5L
+  name: Bit5L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit5L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit5L
+  fullName: Piksel.Helpers.BitHelpers.Bit5L
+  nameWithType: BitHelpers.Bit5L
+- uid: Piksel.Helpers.BitHelpers.Bit5M
+  name: Bit5M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit5M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit5M
+  fullName: Piksel.Helpers.BitHelpers.Bit5M
+  nameWithType: BitHelpers.Bit5M
+- uid: Piksel.Helpers.BitHelpers.Bit6L
+  name: Bit6L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit6L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit6L
+  fullName: Piksel.Helpers.BitHelpers.Bit6L
+  nameWithType: BitHelpers.Bit6L
+- uid: Piksel.Helpers.BitHelpers.Bit6M
+  name: Bit6M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit6M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit6M
+  fullName: Piksel.Helpers.BitHelpers.Bit6M
+  nameWithType: BitHelpers.Bit6M
+- uid: Piksel.Helpers.BitHelpers.Bit7L
+  name: Bit7L
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit7L
+  commentId: F:Piksel.Helpers.BitHelpers.Bit7L
+  fullName: Piksel.Helpers.BitHelpers.Bit7L
+  nameWithType: BitHelpers.Bit7L
+- uid: Piksel.Helpers.BitHelpers.Bit7M
+  name: Bit7M
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_Bit7M
+  commentId: F:Piksel.Helpers.BitHelpers.Bit7M
+  fullName: Piksel.Helpers.BitHelpers.Bit7M
+  nameWithType: BitHelpers.Bit7M
+- uid: Piksel.Helpers.BitHelpers.BitSet(System.Byte,System.Byte)
+  name: BitSet(Byte, Byte)
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSet_System_Byte_System_Byte_
+  commentId: M:Piksel.Helpers.BitHelpers.BitSet(System.Byte,System.Byte)
+  fullName: Piksel.Helpers.BitHelpers.BitSet(System.Byte, System.Byte)
+  nameWithType: BitHelpers.BitSet(Byte, Byte)
+- uid: Piksel.Helpers.BitHelpers.BitSet*
+  name: BitSet
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSet_
+  commentId: Overload:Piksel.Helpers.BitHelpers.BitSet
+  isSpec: "True"
+  fullName: Piksel.Helpers.BitHelpers.BitSet
+  nameWithType: BitHelpers.BitSet
+- uid: Piksel.Helpers.BitHelpers.BitSetL(System.Byte,System.Int32)
+  name: BitSetL(Byte, Int32)
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSetL_System_Byte_System_Int32_
+  commentId: M:Piksel.Helpers.BitHelpers.BitSetL(System.Byte,System.Int32)
+  fullName: Piksel.Helpers.BitHelpers.BitSetL(System.Byte, System.Int32)
+  nameWithType: BitHelpers.BitSetL(Byte, Int32)
+- uid: Piksel.Helpers.BitHelpers.BitSetL*
+  name: BitSetL
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSetL_
+  commentId: Overload:Piksel.Helpers.BitHelpers.BitSetL
+  isSpec: "True"
+  fullName: Piksel.Helpers.BitHelpers.BitSetL
+  nameWithType: BitHelpers.BitSetL
+- uid: Piksel.Helpers.BitHelpers.BitSetM(System.Byte,System.Int32)
+  name: BitSetM(Byte, Int32)
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSetM_System_Byte_System_Int32_
+  commentId: M:Piksel.Helpers.BitHelpers.BitSetM(System.Byte,System.Int32)
+  fullName: Piksel.Helpers.BitHelpers.BitSetM(System.Byte, System.Int32)
+  nameWithType: BitHelpers.BitSetM(Byte, Int32)
+- uid: Piksel.Helpers.BitHelpers.BitSetM*
+  name: BitSetM
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_BitSetM_
+  commentId: Overload:Piksel.Helpers.BitHelpers.BitSetM
+  isSpec: "True"
+  fullName: Piksel.Helpers.BitHelpers.BitSetM
+  nameWithType: BitHelpers.BitSetM
+- uid: Piksel.Helpers.BitHelpers.PackFlags(System.Boolean[])
+  name: PackFlags(Boolean[])
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_PackFlags_System_Boolean___
+  commentId: M:Piksel.Helpers.BitHelpers.PackFlags(System.Boolean[])
+  name.vb: PackFlags(Boolean())
+  fullName: Piksel.Helpers.BitHelpers.PackFlags(System.Boolean[])
+  fullName.vb: Piksel.Helpers.BitHelpers.PackFlags(System.Boolean())
+  nameWithType: BitHelpers.PackFlags(Boolean[])
+  nameWithType.vb: BitHelpers.PackFlags(Boolean())
+- uid: Piksel.Helpers.BitHelpers.PackFlags*
+  name: PackFlags
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_PackFlags_
+  commentId: Overload:Piksel.Helpers.BitHelpers.PackFlags
+  isSpec: "True"
+  fullName: Piksel.Helpers.BitHelpers.PackFlags
+  nameWithType: BitHelpers.PackFlags
+- uid: Piksel.Helpers.BitHelpers.UnpackFlags(System.Byte)
+  name: UnpackFlags(Byte)
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_UnpackFlags_System_Byte_
+  commentId: M:Piksel.Helpers.BitHelpers.UnpackFlags(System.Byte)
+  fullName: Piksel.Helpers.BitHelpers.UnpackFlags(System.Byte)
+  nameWithType: BitHelpers.UnpackFlags(Byte)
+- uid: Piksel.Helpers.BitHelpers.UnpackFlags*
+  name: UnpackFlags
+  href: api/Piksel.Helpers.BitHelpers.html#Piksel_Helpers_BitHelpers_UnpackFlags_
+  commentId: Overload:Piksel.Helpers.BitHelpers.UnpackFlags
+  isSpec: "True"
+  fullName: Piksel.Helpers.BitHelpers.UnpackFlags
+  nameWithType: BitHelpers.UnpackFlags
+- uid: Piksel.Helpers.GenericExtensions
+  name: GenericExtensions
+  href: api/Piksel.Helpers.GenericExtensions.html
+  commentId: T:Piksel.Helpers.GenericExtensions
+  fullName: Piksel.Helpers.GenericExtensions
+  nameWithType: GenericExtensions
+- uid: Piksel.Helpers.GenericExtensions.TryConvert*
+  name: TryConvert
+  href: api/Piksel.Helpers.GenericExtensions.html#Piksel_Helpers_GenericExtensions_TryConvert_
+  commentId: Overload:Piksel.Helpers.GenericExtensions.TryConvert
+  isSpec: "True"
+  fullName: Piksel.Helpers.GenericExtensions.TryConvert
+  nameWithType: GenericExtensions.TryConvert
+- uid: Piksel.Helpers.GenericExtensions.TryConvert``2(``0,Func{``0,``1},``1@)
+  name: TryConvert<TSource, TResult>(TSource, Func<TSource, TResult>, out TResult)
+  href: api/Piksel.Helpers.GenericExtensions.html#Piksel_Helpers_GenericExtensions_TryConvert__2___0_Func___0___1____1__
+  commentId: M:Piksel.Helpers.GenericExtensions.TryConvert``2(``0,Func{``0,``1},``1@)
+  name.vb: TryConvert(Of TSource, TResult)(TSource, Func(Of TSource, TResult), ByRef TResult)
+  fullName: Piksel.Helpers.GenericExtensions.TryConvert<TSource, TResult>(TSource, Func<TSource, TResult>, out TResult)
+  fullName.vb: Piksel.Helpers.GenericExtensions.TryConvert(Of TSource, TResult)(TSource, Func(Of TSource, TResult), ByRef TResult)
+  nameWithType: GenericExtensions.TryConvert<TSource, TResult>(TSource, Func<TSource, TResult>, out TResult)
+  nameWithType.vb: GenericExtensions.TryConvert(Of TSource, TResult)(TSource, Func(Of TSource, TResult), ByRef TResult)
+- uid: Piksel.Helpers.StaticFunctions
+  name: StaticFunctions
+  href: api/Piksel.Helpers.StaticFunctions.html
+  commentId: T:Piksel.Helpers.StaticFunctions
+  fullName: Piksel.Helpers.StaticFunctions
+  nameWithType: StaticFunctions
+- uid: Piksel.Helpers.StaticFunctions.Attempt*
+  name: Attempt
+  href: api/Piksel.Helpers.StaticFunctions.html#Piksel_Helpers_StaticFunctions_Attempt_
+  commentId: Overload:Piksel.Helpers.StaticFunctions.Attempt
+  isSpec: "True"
+  fullName: Piksel.Helpers.StaticFunctions.Attempt
+  nameWithType: StaticFunctions.Attempt
+- uid: Piksel.Helpers.StaticFunctions.Attempt``1(Func{``0},System.String)
+  name: Attempt<TResult>(Func<TResult>, String)
+  href: api/Piksel.Helpers.StaticFunctions.html#Piksel_Helpers_StaticFunctions_Attempt__1_Func___0__System_String_
+  commentId: M:Piksel.Helpers.StaticFunctions.Attempt``1(Func{``0},System.String)
+  name.vb: Attempt(Of TResult)(Func(Of TResult), String)
+  fullName: Piksel.Helpers.StaticFunctions.Attempt<TResult>(Func<TResult>, System.String)
+  fullName.vb: Piksel.Helpers.StaticFunctions.Attempt(Of TResult)(Func(Of TResult), System.String)
+  nameWithType: StaticFunctions.Attempt<TResult>(Func<TResult>, String)
+  nameWithType.vb: StaticFunctions.Attempt(Of TResult)(Func(Of TResult), String)
+- uid: Piksel.Helpers.StaticFunctions.TryOrThrow(Action,System.String)
+  name: TryOrThrow(Action, String)
+  href: api/Piksel.Helpers.StaticFunctions.html#Piksel_Helpers_StaticFunctions_TryOrThrow_Action_System_String_
+  commentId: M:Piksel.Helpers.StaticFunctions.TryOrThrow(Action,System.String)
+  fullName: Piksel.Helpers.StaticFunctions.TryOrThrow(Action, System.String)
+  nameWithType: StaticFunctions.TryOrThrow(Action, String)
+- uid: Piksel.Helpers.StaticFunctions.TryOrThrow*
+  name: TryOrThrow
+  href: api/Piksel.Helpers.StaticFunctions.html#Piksel_Helpers_StaticFunctions_TryOrThrow_
+  commentId: Overload:Piksel.Helpers.StaticFunctions.TryOrThrow
+  isSpec: "True"
+  fullName: Piksel.Helpers.StaticFunctions.TryOrThrow
+  nameWithType: StaticFunctions.TryOrThrow
