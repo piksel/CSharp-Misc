@@ -1,4 +1,7 @@
 ---
 layout: single
 ---
-See [api](api).
+
+## Documentation contents:
+
+{% include api/toc.html %}
